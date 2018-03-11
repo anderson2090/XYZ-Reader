@@ -24,4 +24,7 @@
     <color name="ltgray">#ffe0e0e0</color>
     <color name="orange">#fd5621</color>
     <color name="blue">#00d4ff</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
 </resources>
