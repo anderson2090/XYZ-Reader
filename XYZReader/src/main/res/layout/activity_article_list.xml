@@ -20,7 +20,7 @@
             android:paddingRight="@dimen/list_side_margin"
             android:paddingBottom="28dp" />
     </android.support.v4.widget.SwipeRefreshLayout>
-
+    
     <FrameLayout
         android:id="@+id/toolbar_container"
         android:layout_width="match_parent"
