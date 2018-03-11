@@ -8,5 +8,7 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <string name="retry">Retry</string>
+    <string name="retrying">Retrying...</string>
 
 </resources>
