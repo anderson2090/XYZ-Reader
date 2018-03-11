@@ -124,7 +124,7 @@ public class ArticleListActivity extends AppCompatActivity implements
     public void onLoadFinished(Loader<Cursor> cursorLoader, Cursor cursor) {
         if (!hasNetworkConnection(getApplicationContext())) {
             Snackbar.make(mainActivityRootLayout,
-                    "Please Check Your Internet connection",
+                    R.string.please_check_connection,
                     Snackbar.LENGTH_INDEFINITE).setAction(R.string.retry, new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {

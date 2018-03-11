@@ -10,5 +10,6 @@
     <string name="up">Up</string>
     <string name="retry">Retry</string>
     <string name="retrying">Retrying...</string>
+    <string name="please_check_connection">Please Check your internet connection</string>
 
 </resources>
